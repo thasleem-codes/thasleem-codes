@@ -108,5 +108,5 @@ I enjoy building **scalable web applications, clean user interfaces, and efficie
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=thasleem-codes&icon=0&color=0" />
+<img src="https://komarev.com/ghpvc/?username=thasleem-codes&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
