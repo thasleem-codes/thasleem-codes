@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:00c6ff&height=200&section=header&text=Mohammed%20Thasleem%20MK&fontSize=40&fontAlignY=35)
 
-# 👨‍💻 Mohammed Thasleem MK  
+# Mohammed Thasleem MK  
 ### Full-Stack Developer | Python Enthusiast | MERN Stack Specialist
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I am a **Full-Stack Developer with a strong MERN stack background**, currently expanding my expertise into **Python backend development and automation**.
 
@@ -41,27 +41,15 @@ I enjoy building **scalable web applications, clean user interfaces, and efficie
 <img src="https://skillicons.dev/icons?i=figma,ps,ae,jest,cypress" />
 </p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=thasleem-codes&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</p>
-
----
-
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thasleem-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasleem-codes&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
+</p> -->
 
 <p align="center">
 
